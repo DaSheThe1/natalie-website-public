@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: /
 
-Host: https://natalie.trickticmedia.com
+Host: https://nataliefainberg.com
