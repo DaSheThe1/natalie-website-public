@@ -11,4 +11,4 @@
 :HL["/_next/static/media/Birzia_Light-s.p.3jixjwibgzvr2.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/Birzia_Medium-s.p.37y-qrxd4ip5d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/chunks/1gu14suoopu9_.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":0,"slots":{"children":{"name":"(root)","param":null,"prefetchHints":16,"slots":{"children":{"name":"cookies","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Gj4IHscYnqVGEIprZFSuB"}
+0:{"tree":{"name":"","param":null,"prefetchHints":0,"slots":{"children":{"name":"(root)","param":null,"prefetchHints":16,"slots":{"children":{"name":"cookies","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"tktZXXhNSxokmLdthBVPP"}
